@@ -1,0 +1,20 @@
+/* Your existing CSS rules */
+
+/* Define styles for the colorful boxes */
+.feature-box {
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.red {
+    background-color: #FF5733;
+    color: #fff;
+}
+
+.blue {
+    background-color: #3380FF;
+    color: #fff;
+}
